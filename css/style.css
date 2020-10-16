@@ -1,0 +1,83 @@
+.logo{
+    float: left;
+    margin: 5px 123px 25px 140px;
+}
+.clear{
+    clear: both;
+}
+.nav{
+    float: right;
+    margin: 48px 500px 51px 123px;
+}
+.li{
+    float: left;
+    margin-right: 35px;
+}
+.fixed{
+    position: fixed;
+   background-color: white;
+   top: 0;
+   left: 0;
+   width: 100%;
+   z-index: 5;
+   
+}
+.body{
+    padding-top: 123px;
+    width: 1600px;
+    height: 2400px;
+}
+.img{
+    position: relative;
+    width: 100%;
+}
+.p1{
+    position: absolute;
+    top: 250px;
+    right: 700px;
+    font-size: 22px;
+    color: white;
+}
+.p2{
+    position: absolute;
+    top: 300px;
+    right: 740px;
+    font-size: 48px;
+    color: white;
+}
+.satauri{
+    font-size: 22px;
+    float: left;
+    color: #FF7A00;
+    margin-top: 83px;
+    margin-left: 170px;
+    margin-bottom: 83px;
+}
+.image{
+    float: left;
+    margin-left: 138px;
+    margin-right: 52px;
+    margin-bottom: 20px;
+    width: 630px;
+    height: 420px;
+}
+.satauri2{
+    float: left;
+    width: 589px;
+    height: 95px;
+    font-size: 36px;
+    color: #181C28;
+    margin-left: 138px;
+    margin-bottom: 22px;
+    margin-right: 99px;
+}
+.para{
+    float: left;
+    width: 636px;
+    height: 81px;
+    font-size: 16px;
+    color: #7B7B7B;
+    margin-left: 138px;
+    margin-right: 52px;
+    margin-bottom: 22px;
+}
