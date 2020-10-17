@@ -25,7 +25,7 @@
 .body{
     padding-top: 123px;
     width: 1600px;
-    height: 2400px;
+    height: 3000px;
 }
 .img{
     position: relative;
@@ -53,31 +53,78 @@
     margin-left: 170px;
     margin-bottom: 83px;
 }
-.image{
+.shvili{
     float: left;
-    margin-left: 138px;
-    margin-right: 52px;
-    margin-bottom: 20px;
-    width: 630px;
-    height: 420px;
 }
-.satauri2{
-    float: left;
-    width: 589px;
-    height: 95px;
+.img-1{
+    margin-left: 10px;
+    margin-right: 100px;
+    margin-bottom: 20px;
+}
+.h1-1{
     font-size: 36px;
     color: #181C28;
-    margin-left: 138px;
+    margin-left: 10px;
     margin-bottom: 22px;
-    margin-right: 99px;
+    width: 589px;
 }
-.para{
-    float: left;
-    width: 636px;
-    height: 81px;
+.p-1{
+    width: 631px;
+    font-size: 16px;
+    color: #7B7B7B;
+    margin-left: 10px;
+}
+.a-1{
+    color: #FF7A00;
+    font-size: 14px;
+    width: 100px;
+    height: 19px;
+    margin-left: 10px;
+    margin-top: 13px;
+    
+}
+.a-1::after{
+    content: '';
+    width: 47px;
+    height: 4px;
+    background-color: #FF7A00;
+    margin-left: 100px;
+    display: block;
+}
+.shvili{
+    float: right;
+}
+.img-2{
+    margin-left: 138px;
+    margin-right: 42px;
+}
+.h1-2{
+    font-size: 36px;
+    width: 589px;
+    color: #181C28;
+    margin-left: 138px;
+    margin-top: 20px;
+}
+.p-2{
     font-size: 16px;
     color: #7B7B7B;
     margin-left: 138px;
-    margin-right: 52px;
-    margin-bottom: 22px;
+    margin-top: 22px;
+    width: 631px;
+}
+.a-2{
+    color: #FF7A00;
+    font-size: 14px;
+    width: 100px;
+    height: 19px;
+    margin-left: 138px;
+    margin-top: 13px;
+}
+.a-2::after{
+    content: '';
+    width: 47px;
+    height: 4px;
+    background-color: #FF7A00;
+    display: block;
+    margin-left: 100px;
 }
